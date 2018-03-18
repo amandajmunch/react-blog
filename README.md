@@ -1,26 +1,15 @@
-# ReduxSimpleStarter
+# React Blog
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/amandajmunch/react-blog.git
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### Instructions
 
-```
-> npm install
-> npm start
-```
-# react-blog
+After starting the app, click "Add a Post" to create a new post. Add a title, categories, and your post content to the fields provided. Once you click submit, you will be redirected back to the home page to view your posts. Click onto the post created to view it and delete it. There is a link back the home page where you can view another post or add a new one.
